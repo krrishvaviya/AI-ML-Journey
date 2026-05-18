@@ -1,20 +1,28 @@
 # AI/ML Journey 🚀
 
-Hi, I am Krrish.
+Hi, I am Krrish Vaviya.
 
-I am a B.Tech AI & Data Science student currently learning Artificial Intelligence, Machine Learning and Software Development.
+I am a B.Tech AI & Data Science student passionate about Artificial Intelligence, Machine Learning and Software Development.
 
-## Goals
+## 🎯 Goals
 - Become AI/ML Engineer
-- Build real projects
-- Improve coding skills
-- Create strong portfolio
+- Build real-world projects
+- Improve problem solving skills
+- Build a strong portfolio
 
-## Roadmap
+## 📚 Learning Roadmap
 
-Month 1: Python
-Month 2: Data Science
+Month 1: Python Programming
+
+Month 2: Data Science + Statistics
+
 Month 3: Machine Learning
-Month 4: Web + AI
+
+Month 4: Web Development + AI Integration
+
 Month 5: Deep Learning
-Month 6: Final Projects
+
+Month 6: Final AI Projects
+
+## 🛠 Projects
+Projects will be added as I progress through my journey.
